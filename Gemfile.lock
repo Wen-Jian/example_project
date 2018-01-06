@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mimic_rails (0.2.0)
+      rack
+    rack (2.0.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mimic_rails (> 0.1.0)
+
+BUNDLED WITH
+   1.16.0
